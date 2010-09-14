@@ -88,6 +88,7 @@ libFFTEm.so             0xAB100000
 libaudioflinger.so      0xAB000000
 
 # assorted system libraries
+libpolicydb.so          0xAAD00000
 libsqlite.so            0xAAC00000
 libexpat.so             0xAAB00000
 libwebcore.so           0xAA000000
